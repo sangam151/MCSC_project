@@ -112,5 +112,7 @@ Simpson 1/3 Rule ... ...
 - `main.py` imports `question7` and `question12` as modules, so all three files must be in the same directory.
 
 ## 👤 Author
+-Sangam Paudel
+-Asmit panthi
 
 Numerical Methods Coursework Project
